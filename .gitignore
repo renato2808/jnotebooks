@@ -3,4 +3,5 @@
 .settings/
 target/
 res/
-*/.ipynb_checkpoints
+*atlas_db*
+
